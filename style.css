@@ -69,3 +69,6 @@ p{
 html{
     scroll-behavior: smooth;
 }
+.article:hover{
+    color:yellow;
+}
